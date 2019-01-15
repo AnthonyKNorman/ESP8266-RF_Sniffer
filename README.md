@@ -5,6 +5,6 @@ A portable hendheld device to sniff common 433MHz remote controls
 
 
  
-<a href="How-to-make-a-Air-Cooled-433MHz-antenna.pdf">How-to-make-a-Air-Cooled-433MHz-antenna.pdf</a>
+<a href="/resources/How-to-make-a-Air-Cooled-433MHz-antenna.pdf">How-to-make-a-Air-Cooled-433MHz-antenna.pdf</a>
 
 
